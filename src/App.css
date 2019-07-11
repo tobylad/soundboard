@@ -17,3 +17,7 @@
 .sound-tile:hover {
   background-color: #a4a1a1;
 }
+
+.actor-title {
+  justify-content: center;
+}

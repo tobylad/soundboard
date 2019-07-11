@@ -15,7 +15,7 @@ import Yes from './Yes';
 function Arnold() {
   return (
     <div className="container">
-      <div className="row">
+      <div className="row actor-title">
         <h3>Arnold Schwarzenegger</h3>
       </div>
 
