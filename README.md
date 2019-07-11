@@ -2,4 +2,4 @@
 
 ### Current Soundboards:
 
-**Arnold Schwarzenegger**
+*Arnold Schwarzenegger*
